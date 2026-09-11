@@ -98,7 +98,7 @@ Generic agent tooling is out of scope unless the page directly covers harness de
 - [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Deterministic pre-action authorization hooks for AI-agent tool calls, with adapters for Claude Code, Cursor, OpenClaw, LangChain, CrewAI, and related runtimes.
 - [Lurkr](https://github.com/agentveil-protocol/lurkr) - Static scanner that runs in CI before deploy to surface AI-agent capability risks, including shadow capabilities, credentials into LLM context, eval/subprocess in `@tool`, direct prompt interpolation, and unverified MCP endpoints.
 - [HEAAL](https://github.com/hyun06000/AIL) - Grammar-enforced safety constraints for AI agents via AIL (AI-Intent Language).
-- [Odai](https://github.com/orziz/odai) - Cross-host governance layer that binds intent, evidence, authorization, risk, and acceptance to agent execution, with a portable Skill, inspectable DSH runtime, and published paired evaluations.
+- [Odai](https://github.com/orziz/odai) - Cross-host governance layer that binds intent, evidence, authorization, risk, and acceptance to agent execution, with a portable Skill, inspectable DSH runtime, and published version-scoped paired evaluations.
 
 ### Operational Autonomy & Reliability
 
